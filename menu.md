@@ -12,13 +12,13 @@
 | Dubu Jigae *(Hot-pot of tofu, and vegetable stew with a bowl of rice)*                         |   350 |
 
 ## Italian Food Section
-| Description                                  | Price              |
-|:--------------------------------------|:--------------------:|
-| Pizza Margherita | 299 |
-| Spaghetti Carbonara | 189 |
-| Gnocchi Pesto | 189 |
-| Risotto | 160 |
-| Lasagna | 155 |
+| Description                                                                           | Price  |
+|:--------------------------------------------------------------------------------------|:------:|
+| Pizza Margherita *(tomato sauce, fresh mozzarella cheese, basil leaves, parmesan)*    |   299  |
+| Spaghetti Carbonara *(guanciale, eggs, Pecorino Romano, spaghetti, black pepper)*     |   189  |
+| Gnocchi Pesto *(Olive oil, Basil pesto, Garlic, Parmesan, Salt, and Pepper)*          |   189  |
+| Risotto *(onion or shallot sautéed in butter, dry white wine, hot stock, vegetables)* |   160  |
+| Lasagna *(ricotta, a homemade meat sauce, and tons of cheese)*                        |   155  |
 
 ## Thai Food Section
 | Description                                                                            | Price |
@@ -32,11 +32,11 @@
 ## Japanese Food Section
 | Description                                                                                                    | Price |
 |:---------------------------------------------------------------------------------------------------------------|:------:|
-| Katsudon (カツ丼) *Donburi topped with deep-fried breaded cutlet of pork (tonkatsudon), chicken (chickendon)*     |   250 |
-| Gyūdon: (牛丼, beef bowl) *Donburi topped with seasoned beef and onion*                                          |   240 |
-| Tekkadon (鉄火丼) *Donburi topped with tuna sashimi*                                                              |   380 |
-| Omurice (Omu-raisu, オムライス) *omelet filled with fried rice, apparently originating from Tōkyō*                  |   220 |
-| Unadon: (うな丼, 鰻丼) *Donburi topped with broiled eel with vegetables*                                            |   320 |
+| Katsudon (カツ丼) *Donburi topped with deep-fried breaded cutlet of pork (tonkatsudon), chicken (chickendon)*   |   250  |
+| Gyūdon: (牛丼, beef bowl) *Donburi topped with seasoned beef and onion*                                         |   240 |
+| Tekkadon (鉄火丼) *Donburi topped with tuna sashimi*                                                            |   380 |
+| Omurice (Omu-raisu, オムライス) *omelet filled with fried rice, apparently originating from Tōkyō*               |   220 |
+| Unadon: (うな丼, 鰻丼) *Donburi topped with broiled eel with vegetables*                                         |   320 |
 
 ## American Food Section
 
@@ -48,4 +48,3 @@
 | BLT, *a sandwich with bacon, lettuce, and tomato*                                   |    60 |
 | Barbecue Ribs, *a smoked barbecue ribs*                                             |   220 |
 | Fried Chicken with Waffles, *a Fried Chicken serve with waffles*                    |   150 |
-
