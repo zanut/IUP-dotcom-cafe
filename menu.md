@@ -1,7 +1,6 @@
 ## Menu
 
-
-[Korean Food Section](#korean-food-section) | [Italian Cuisine](#italian-food-section) | [Thai Food Section](#thai-food-section)
+[Korean Food Section](#korean-food-section) | [Italian Cuisine](#italian-food-section) | [Thai Food Section](#thai-food-section) | [Japanese Food Section](#japanese-food-section)
 
 ## Korean Food Section
 | Description                                                                                    | Price |
@@ -29,3 +28,13 @@
 | Gaeng Keow Wan Gai , *coconut milk and fresh green chilies with chickens*              |  120  |
 | Khao Soi , *Thai Coconut Curry Noodle Soup*                                            |  80   |
 | Som Tam , *Spicy Green Papaya Salad*                                                   |  120  |
+
+## Japanese Food Section
+| Description                                                                                                    | Price |
+|:---------------------------------------------------------------------------------------------------------------|------:|
+| Katsudon (カツ丼) *Donburi topped with deep-fried breaded cutlet of pork (tonkatsudon), chicken (chickendon)*     |   250 |
+| Gyūdon: (牛丼, beef bowl) *Donburi topped with seasoned beef and onion*                                          |   240 |
+| Tekkadon (鉄火丼) *Donburi topped with tuna sashimi*                                                              |   380 |
+| Omurice (Omu-raisu, オムライス) *omelet filled with fried rice, apparently originating from Tōkyō*                  |   220 |
+| Unadon: (うな丼, 鰻丼) *Donburi topped with broiled eel with vegetables*                                            |   320 |
+
