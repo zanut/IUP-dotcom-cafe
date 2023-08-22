@@ -4,6 +4,9 @@ Write a one or two sentence description of your cafe.
 
 ## [Menu](menu.md)
 
-| Cuisine | Contributor  |
-|:--------|--------------|
-| Thai    | Natthadit L. |
+| Cuisine | Contributor |
+|:--------|-------------|
+| Korean  | Chanun S.   |
+| Italian | Woraphan S. |
+| Thai    | Natthadit L.|
+
