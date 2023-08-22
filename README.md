@@ -1,6 +1,6 @@
 # IUP dotcom cafe
 
-Write a one or two sentence description of your cafe.
+The best international restaurant that sells international foods in KU.
 
 ## [Menu](menu.md)
 
