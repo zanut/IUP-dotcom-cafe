@@ -1,9 +1,11 @@
-# Name of Your Cafe
+# IUP dotcom cafe
 
 Write a one or two sentence description of your cafe.
 
 ## [Menu](menu.md)
 
-| Cuisine                               | Contributor        |
-|:--------------------------------------|--------------------|
-|                 Italian               | Woraphan S.        |
+| Cuisine | Contributor |
+|:--------|-------------|
+| Korean  | Chanun S.   |
+| Italian | Woraphan S. |
+
