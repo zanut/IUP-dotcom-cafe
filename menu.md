@@ -1,8 +1,8 @@
 ## Menu
 
-[First Food Section](#first-food-section) | ...
+[American Food Section](#american-food-section) | ...
 
-## American Food
+## American Food Section
 
 | Description                                                                         | Price |
 |:------------------------------------------------------------------------------------|------:|
