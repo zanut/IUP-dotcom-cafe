@@ -1,5 +1,12 @@
 ## Menu
 
-[First Food Section](#first-food-section) | ...
+[Italian Cuisine](#italian-cuisine) | ...
 
-## First Food Section
+## Italian Cuisine
+| Name                                  | Price              |
+|:--------------------------------------|--------------------|
+| Pizza Margherita | 299 |
+| Spaghetti Carbonara | 189 |
+| Gnocchi Pesto | 189 |
+| Risotto | 160 |
+| Lasagna | 155 |
