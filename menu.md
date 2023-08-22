@@ -11,6 +11,7 @@
 | Buffalo wings, *a deep-fried chicken wing dipped in a hot-sweet sauce  (6 wings)*   |   120 |
 | BLT, *a sandwich with bacon, lettuce, and tomato*                                   |    60 |
 | Barbecue Ribs, *a smoked barbecue ribs*                                             |   220 |
+| Fried Chicken with Waffles, *a Fried Chicken serve with waffles*                    |   150 |
 
 
 
