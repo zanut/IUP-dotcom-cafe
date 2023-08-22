@@ -8,4 +8,5 @@ Write a one or two sentence description of your cafe.
 |:--------|-------------|
 | Korean  | Chanun S.   |
 | Italian | Woraphan S. |
+| Thai    | Natthadit L.|
 
