@@ -7,3 +7,5 @@ Write a one or two sentence description of your cafe.
 | Cuisine | Contributor |
 |:--------|-------------|
 | Korean  | Chanun S.   |
+| Italian | Woraphan S. |
+
