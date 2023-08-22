@@ -1,6 +1,6 @@
 ## Menu
 
-[Korean Food Section](#korean-food-section) | [Italian Cuisine](#italian-food-section) | [Thai Food Section](#thai-food-section) | [Japanese Food Section](#japanese-food-section) | [American Food Section](#american-food-section)
+[Korean Food Section](#korean-food-section) | [Italian Food Section](#italian-food-section) | [Thai Food Section](#thai-food-section) | [Japanese Food Section](#japanese-food-section) | [American Food Section](#american-food-section)
 
 ## Korean Food Section
 | Description                                                                                    | Price |
